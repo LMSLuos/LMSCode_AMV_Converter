@@ -7,7 +7,7 @@ AMV格式是许多品牌的MP4播放器使用的视频播放格式；使用本�
 ## 开始使用
 
 1. 您需要一台Windows8以上系统的电脑。
-2. 从[本仓库的Releases](https://github.com/LMSLuos/LMSCode_AMV_Convert/releases/latest/)或[LMSOFSv3](https://files.lms.cn.eu.org/v3/Software/LMSCode_AMV_Convert/InstallTool/)下载最新的版本并安装。
+2. 从[本仓库的Releases（暂不支持！）](https://github.com/LMSLuos/LMSCode_AMV_Convert/releases/latest/)或[LMSOFSv3](https://files.lms.cn.eu.org/v3/Software/LMSCode_AMV_Convert/InstallTool/)下载最新的版本并安装。
 >本工具的安装依赖7-Zip，本质上是绿色软件，安装操作不会像您的计算机添加多余的文件，更不会有病毒。
 3. 双击文件夹内的程序，立即开始使用！
 
@@ -26,7 +26,7 @@ AMV格式是许多品牌的MP4播放器使用的视频播放格式；使用本�
 拖拽功能加载时出错。使用“添加文件”的按钮来添加文件。
 
 ### 进度条不动
-V1.2.1之后修复了该问题；如果之后的版本也出现了，请将日志（单击“展开控制台”，复制下方窗口中的一切文字）与截图发送到[LMSLuos的邮箱：LMSLuos@LMS.CN.eu.org](mailto:LMSLuos@LMS.CN.eu.org)，有空时会联系您解决。
+V1.2.1之后修复了该问题；如果之后的版本也出现了，请将日志（单击“展开控制台”，复制下方窗口中的一切文字）与截图发送到[LMSLuos的邮箱：LMSLuos@LMS.CN.eu.org](mailto:LMSLuos@LMS.CN.eu.org联系方式:LMSLuos@LMS . CN。)，有空时会联系您解决。
 
 ### 转换出错
 检查源文件是否损坏，转换途中是否操作了软件；大部分有弹窗提示您的错误都是您的文件或环境的问题；或者是您的杀毒软件误杀了，暂时关闭您的杀毒软件并重试。
