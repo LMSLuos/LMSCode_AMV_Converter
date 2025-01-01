@@ -35,7 +35,9 @@ V1.2.1之后修复了该问题；如果之后的版本也出现了，请将日�
 默认的输出视频的分辨率为160x128，这是主流的MP4播放器的分片率。压缩视频的分辨率是为了节约您的存储空间（AMV格式因为历史问题，体积异常的大），模糊不清为正常现象；如果您的视频的竖版视频，您可以将画面旋转90°后再转换；后续更新会添加更改分辨率的功能，以适配更多型号的播放器。
 
 ### 更多
-请将日志（单击“展开控制台”，复制下方窗口中的一切文字）与截图发送到[LMSLuos的邮箱：LMSLuos@LMS.CN.eu.org](mailto:LMSLuos@LMS.CN.eu.org)，有空时会联系您解决。
+请浏览[本软件的维基](https://wiki.lms.cn.eu.org/zh/LMSCode/LMSCode_AMV_Convert/README)。
+
+如果没有有关您的问题的解决方案或解决方案无效，请将日志（单击“展开控制台”，复制下方窗口中的一切文字）与截图发送到[LMSLuos的邮箱：LMSLuos@LMS.CN.eu.org](mailto:LMSLuos@LMS.CN.eu.org)，有空时会联系您解决。
 
 ## 关于软件
 
@@ -46,3 +48,5 @@ V1.2.1之后修复了该问题；如果之后的版本也出现了，请将日�
 本软件[开源](https://files.lms.cn.eu.org/v3/Software/LMSCode_AMV_Convert/SourceCode/)；调用了[FFmpeg](https://ffmpeg.org)。
 
 更新日志均发布在[LMSOnlineBolg](https://blog.lms.cn.eu.org)。
+
+本软件的更多支持在[LMSWiki](https://wiki.lms.cn.eu.org/zh/LMSCode/LMSCode_AMV_Convert/README)上。
