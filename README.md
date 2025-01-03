@@ -7,7 +7,7 @@ AMV格式是许多品牌的MP4播放器使用的视频播放格式；使用本�
 ## 开始使用
 
 1. 您需要一台Windows8以上系统的电脑。
-2. 从[本仓库的Releases（暂不支持！）](https://github.com/LMSLuos/LMSCode_AMV_Convert/releases/latest/)或[LMSOFSv3](https://files.lms.cn.eu.org/v3/Software/LMSCode_AMV_Convert/InstallTool/)下载最新的版本并安装。
+2. 从[本仓库的Releases](https://github.com/LMSLuos/LMSCode_AMV_Convert/releases/latest/)或[LMSOFSv3](https://files.lms.cn.eu.org/v3/Software/LMSCode_AMV_Convert/InstallTool/)下载最新的版本并安装。
 >本工具的安装依赖7-Zip，本质上是绿色软件，安装操作不会像您的计算机添加多余的文件，更不会有病毒。
 3. 双击文件夹内的程序，立即开始使用！
 
