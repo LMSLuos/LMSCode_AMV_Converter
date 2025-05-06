@@ -4,6 +4,8 @@
 
 AMV格式是许多品牌的MP4播放器使用的视频播放格式；使用本工具可以将您的视频转换为AMV视频格式。
 
+## V1.3.1【重要更新】已在路上！预计六月左右发布。请收藏此页面。详细信息可邮件至[LMSLuos@LMS.CN.eu.org](mailto:LMSLuos@LMS.CN.eu.org联系方式:LMSLuos@LMS . CN。)或使用[QQ:2091977584]()联系我，我会尽快制作。下载现有的Git版本请前往[LMSOFSv3](https://files.lms.cn.eu.org/v3/Software/LMSCode_AMV_Convert/Git)。
+
 ## 开始使用
 
 1. 您需要一台Windows8以上系统的电脑。
@@ -45,7 +47,7 @@ V1.2.1之后修复了该问题；如果之后的版本也出现了，请将日�
 
 软件支持Windows8以上的操作系统。
 
-本软件[开源](https://files.lms.cn.eu.org/v3/Software/LMSCode_AMV_Convert/SourceCode/)；调用了[FFmpeg](https://ffmpeg.org)。
+<!--本软件[开源](https://files.lms.cn.eu.org/v3/Software/LMSCode_AMV_Convert/SourceCode/)；调用了[FFmpeg](https://ffmpeg.org)。-->
 
 更新日志均发布在[LMSOnlineBolg](https://blog.lms.cn.eu.org)。
 
